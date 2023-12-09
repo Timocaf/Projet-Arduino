@@ -1,2 +1,2 @@
 # Projet-Arduino
-Trieur automatisé à pieces
+Trieur et distributeur automatisé à pieces
