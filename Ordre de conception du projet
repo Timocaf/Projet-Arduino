@@ -1,0 +1,17 @@
+une fois les programmes faits il faut :
+
+1- Faire un partie du BAS + 1 servo
+---TEST de distribution ( bonne taille ? bon programme brut ?)
+2-faire DISQUE nb3 + 1 COLONNE + 1 IR 
+---TEST taille ?
+3-faire les quatres autres COLONNES + les reste du BAS + 4 IR + 5 servo
+4-faire DISQUE nb2 + 1 IR + 1 moteur (celui du haut)
+---TEST de tri (programmes)
+---TEST comptage de piece (programmes)
+5-faire moitié CACHE + SORTIE + TEST taille
+6- faire plateforme *3+ y placer Arduino, board, pont H + CACHE nb2 + TEST taille
+7-placer ecran lcd + bouton + bluetooth
+---TEST ecran (programmes)
+---TEST distribution bouton (programmes)
+---TEST distribution bluetooth (programmes)
+8- reste du CACHE + piles
