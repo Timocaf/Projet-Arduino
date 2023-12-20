@@ -1,10 +1,10 @@
 une fois les programmes faits il faut :
 
-1- Faire un partie du BAS + 1 servo
+1- Faire un partie du BAS + 1 PALE de servo + 1 servo
 ---TEST de distribution ( bonne taille ? bon programme brut ?)
 2-faire DISQUE nb3 + 1 COLONNE + 1 IR 
 ---TEST taille ?
-3-faire les quatres autres COLONNES + les reste du BAS + 4 IR + 5 servo
+3-faire les quatres autres COLONNES + les reste du BAS + 4 IR + 4 PALE servo + 4 servo
 4-faire DISQUE nb2 + 1 IR + 1 moteur (celui du haut)
 ---TEST de tri (programmes)
 ---TEST comptage de piece (programmes)
