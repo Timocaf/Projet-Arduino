@@ -1,4 +1,4 @@
 # Projet-Arduino
-Trieur et distributeur automatisé à pieces
+Trieur et distributeur automatisé à pieces avec connexion Bluetooth.
 
-Pantani Timothé - Martini Alexis  Peip2-G3
+Martini Alexis - Pantani Timothé  Peip2-G3
